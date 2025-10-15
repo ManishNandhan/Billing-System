@@ -1,0 +1,15 @@
+The Smart Billing System is a desktop-based application built using Java Swing that helps small businesses or shops manage customer bills efficiently.
+It provides a clean and interactive interface to add items, calculate totals, and print digital receipts — all within a single window.
+
+Features -
+ - Add Items Easily: Enter item name, quantity, and price to automatically calculate total.
+ - Dynamic Bill Table: Displays all purchased items in a tabular format.
+ - Automatic Grand Total: Updates total amount instantly as you add or remove items.
+ - Print Bill Receipt: Generates a detailed receipt showing all items and the final total.
+ - User-Friendly GUI: Designed with modern colors and layout for better usability.
+ - Error Handling: Prompts for missing or invalid inputs gracefully.
+
+Technologies Used
+ -Language: Java
+ -Framework: Swing (GUI)
+ -Concepts: Event Handling, JTable, Layout Managers, ActionListeners
